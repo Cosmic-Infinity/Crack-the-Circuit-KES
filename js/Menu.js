@@ -2136,7 +2136,6 @@ Menu.prototype.showPasswordPopup = function (callback, fontFamily) {
     buttonElement.disabled = true;
 
     const enteredPassword = inputElement.value.toLowerCase();
-    console.log(enteredPassword);
     const userInputHash = CryptoJS.SHA256(enteredPassword).toString();
     if (userInputHash === correctPassword) {
       feedbackHTML.textContent = "Correct!";
