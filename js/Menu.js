@@ -2029,35 +2029,35 @@ Menu.prototype.showPasswordPopup = function (callback, fontFamily) {
     // content for stage 14
     if (this.gameState.curLevelNum == 14) {
       topContent.innerHTML = `
-      <h2>Group 1</h2>
+      <h2>Group Name</h2>
       <!--<img src="assets/images/blueprint.png" alt="Level-specific image" style="max-width: 100%;"/>-->
       <p>Hint A</p>
     `;
     } else if (this.gameState.curLevelNum == 15) {
       // content for stage 15
       topContent.innerHTML = `
-      <h2>Group 1</h2>
+      <h2>Group Name</h2>
       <!--<img src="assets/images/blueprint.png" alt="Level-specific image" style="max-width: 100%;"/>-->
       <p>Hint B</p>
     `;
     } else if (this.gameState.curLevelNum == 16) {
       // content for stage 16
       topContent.innerHTML = `
-      <h2>Group 1</h2>
+      <h2>Group Name</h2>
       <!--<img src="assets/images/blueprint.png" alt="Level-specific image" style="max-width: 100%;"/>-->
       <p>Hint C</p>
     `;
     } else if (this.gameState.curLevelNum == 17) {
       // content for stage 17
       topContent.innerHTML = `
-        <h2>Group 1</h2>
+        <h2>Group Name</h2>
         <!--<img src="assets/images/blueprint.png" alt="Level-specific image" style="max-width: 100%;"/>-->
         <p>Hint D</p>
         `;
     } else if (this.gameState.curLevelNum == 18) {
       // content for stage 18
       topContent.innerHTML = `
-        <h2>Group 1</h2>
+        <h2>Group Name</h2>
         <!--<img src="assets/images/blueprint.png" alt="Level-specific image" style="max-width: 100%;"/>-->
         <p>Hint E</p>
         `;
