@@ -9,7 +9,7 @@ The game was supposed to lock progress to the next stage until the required answ
 - Moved around the buttons a bit on the main screen
 - Remove the replay level button from stage ends
 - Remove the "by TAUM" in spritesheetmenu.json ()
-- Clamp min and max levels to 14 and 18 (this, by extension, skips the tutorials)
+- Clamp min and max levels between 14 and 18 (this, by extension, skips the tutorials)
 
 - Make the hint button invisible in Menu.prototype.fadeInHintBtn() by adding this line -> this.makeHintBtnInvisible();
 
@@ -19,5 +19,13 @@ The game was supposed to lock progress to the next stage until the required answ
 - Passwords, hints and popups are all handled in menu.js
 - Passwords are SHA256 hashed and store client side
 
+## Currently set passwords
+- [Hint A] `frequency`
+- [Hint B] `inductance`
+- [Hint C] `generator`
+- [Hint D] `electricvehicle`
+- [Hint E] `transmission`
 
-//might add more details later
+
+## Footnote
+The project removes the name of the authors from the deployment, not with an intention to steal credit. The idea was to prevent players from realizing that this is an openly available game on the internet, as that might have encouraged them to look for walkthroughs.
