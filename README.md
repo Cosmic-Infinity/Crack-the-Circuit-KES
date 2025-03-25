@@ -19,6 +19,38 @@ The game was supposed to lock progress to the next stage until the required answ
 - Passwords, hints and popups are all handled in menu.js
 - Passwords are SHA256 hashed and store client side
 
+## As it looks now
+<table>
+  <tr>
+    <td><image src="https://github.com/user-attachments/assets/8cc03730-8cc7-400d-985b-0bdd35cc7873"></td>
+    <td>
+      <image src="https://github.com/user-attachments/assets/07d866e4-a382-4ea9-8236-d6c6147afe53">
+    </td>
+  </tr>
+
+        
+  <tr>
+    <td><image src="https://github.com/user-attachments/assets/04c2b7a4-4672-47e9-9982-2b16f83c72fd"></td>
+    <td>
+      <image src="https://github.com/user-attachments/assets/823bdbc9-6140-43d9-9b8a-eddbb17856fb">
+    </td>
+  </tr>
+
+        
+  <tr>
+    <td><image src="https://github.com/user-attachments/assets/0bcc6350-8d2e-40ed-9df0-606f816dd835"></td>
+    <td>
+      <image src="https://github.com/user-attachments/assets/1a52620c-8e98-4a4a-8a4f-7f2ae9e8c0a0"></td>
+  </tr>
+
+  <tr>
+    <td>
+      <image src="https://github.com/user-attachments/assets/e2c12f52-2318-4a39-917a-37065ed63625"></td>
+  </tr>
+
+        
+</table>
+
 ## Currently set passwords
 - [Hint A] `frequency`
 - [Hint B] `inductance`
